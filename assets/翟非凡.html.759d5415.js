@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a1e21848","path":"/content/%E7%BF%9F%E9%9D%9E%E5%87%A1.html","title":"翟非凡","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"翟非凡","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/翟非凡.md"}');export{t as data};

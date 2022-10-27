@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-97877504","path":"/content/%E7%8E%8B%E8%8E%98%E6%B7%87.html","title":"王莘淇","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"王莘淇","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/王莘淇.md"}');export{t as data};

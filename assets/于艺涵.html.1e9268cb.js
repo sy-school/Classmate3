@@ -1,0 +1,1 @@
+import{_,o as l,c as t,a as e}from"./app.994bfdfa.js";const c={},n=e("ul",null,[e("li",null,"姓名: 于艺涵"),e("li",null,"性别: 女")],-1),o=[n];function s(a,r){return l(),t("div",null,o)}const u=_(c,[["render",s],["__file","于艺涵.html.vue"]]);export{u as default};

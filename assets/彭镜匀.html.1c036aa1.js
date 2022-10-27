@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-41b7f737","path":"/content/%E5%BD%AD%E9%95%9C%E5%8C%80.html","title":"彭镜匀","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"彭镜匀","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/彭镜匀.md"}');export{t as data};

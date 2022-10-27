@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-552e13ac","path":"/content/%E9%9E%A0%E6%80%9D%E7%91%9E.html","title":"鞠思瑞","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"鞠思瑞","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/鞠思瑞.md"}');export{t as data};

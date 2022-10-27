@@ -1,0 +1,1 @@
+import{_ as e,o as _,c as n,a as l}from"./app.994bfdfa.js";const t={},c=l("ul",null,[l("li",null,"姓名: 翟非凡"),l("li",null,"性别: 女"),l("li",null,"生日: 2005-07-22"),l("li",null,"星座: 巨蟹座")],-1),o=[c];function s(a,r){return _(),n("div",null,o)}const u=e(t,[["render",s],["__file","翟非凡.html.vue"]]);export{u as default};

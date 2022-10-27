@@ -1,0 +1,1 @@
+import{_ as s,o as _,c,a as e}from"./app.994bfdfa.js";const t="/Classmate3/images/课堂1.jpg",o={},a=e("p",null,[e("img",{src:t,alt:"教室1"})],-1),n=e("p",null,[e("img",{src:t,alt:"教室2"})],-1),l=[a,n];function r(i,m){return _(),c("div",null,l)}const p=s(o,[["render",r],["__file","教室.html.vue"]]);export{p as default};

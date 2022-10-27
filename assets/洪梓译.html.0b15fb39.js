@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9305cf50","path":"/content/%E6%B4%AA%E6%A2%93%E8%AF%91.html","title":"洪梓译","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"洪梓译","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/洪梓译.md"}');export{t as data};

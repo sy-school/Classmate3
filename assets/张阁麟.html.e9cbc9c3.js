@@ -1,0 +1,1 @@
+import{_ as l,o as _,c as t,a as e}from"./app.994bfdfa.js";const n={},c=e("ul",null,[e("li",null,"姓名: 张阁麟"),e("li",null,"性别: 男"),e("li",null,"电话: 13889156967")],-1),o=[c];function s(a,r){return _(),t("div",null,o)}const u=l(n,[["render",s],["__file","张阁麟.html.vue"]]);export{u as default};

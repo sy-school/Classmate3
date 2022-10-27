@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6448fdb2","path":"/guide/picture/%E6%95%99%E5%AE%A4.html","title":"教室照片","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"教室照片","description":"照片墙"},"excerpt":"","headers":[],"git":{},"filePathRelative":"guide/picture/教室.md"}');export{t as data};

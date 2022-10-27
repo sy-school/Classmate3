@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-43873290","path":"/content/%E5%BE%90%E7%AC%91%E6%99%97.html","title":"徐笑晗","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"徐笑晗","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/徐笑晗.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-40249338","path":"/content/%E7%8E%8B%E6%B5%A9%E9%98%B3.html","title":"王浩阳","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"王浩阳","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/王浩阳.md"}');export{t as data};

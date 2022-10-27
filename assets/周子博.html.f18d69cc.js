@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-98b13428","path":"/content/%E5%91%A8%E5%AD%90%E5%8D%9A.html","title":"周子博","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"周子博","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/周子博.md"}');export{t as data};

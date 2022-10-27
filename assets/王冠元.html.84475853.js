@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f4a71df2","path":"/content/%E7%8E%8B%E5%86%A0%E5%85%83.html","title":"王冠元","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"王冠元","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/王冠元.md"}');export{t as data};

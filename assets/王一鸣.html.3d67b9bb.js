@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5f48a775","path":"/content/%E7%8E%8B%E4%B8%80%E9%B8%A3.html","title":"王一鸣","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"王一鸣","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/王一鸣.md"}');export{t as data};

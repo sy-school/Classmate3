@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-16b1c8d4","path":"/content/%E9%9F%A9%E8%B7%83%E9%BD%90.html","title":"韩跃齐","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"韩跃齐","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/韩跃齐.md"}');export{t as data};

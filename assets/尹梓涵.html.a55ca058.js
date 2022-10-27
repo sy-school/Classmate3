@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0f8aa458","path":"/content/%E5%B0%B9%E6%A2%93%E6%B6%B5.html","title":"尹梓涵","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"尹梓涵","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/尹梓涵.md"}');export{t as data};

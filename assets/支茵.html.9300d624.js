@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t,a as l}from"./app.994bfdfa.js";const _={},c=l("ul",null,[l("li",null,"姓名: 支茵"),l("li",null,"性别: 女"),l("li",null,"生日: 2005-04-29"),l("li",null,"星座: 金牛座")],-1),o=[c];function s(a,r){return n(),t("div",null,o)}const u=e(_,[["render",s],["__file","支茵.html.vue"]]);export{u as default};
